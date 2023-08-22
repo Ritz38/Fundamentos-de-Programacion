@@ -1,0 +1,6 @@
+FM FM
+MM MF
+MM FF
+FM
+MF FF MM
+FF MM FF

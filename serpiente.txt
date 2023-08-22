@@ -1,0 +1,2 @@
+cantidad_de_usuarios
+porcentaje_de_ganacia_neta
